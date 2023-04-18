@@ -42,7 +42,8 @@
         "wmaurer.change-case",
         "mhutchie.git-graph",
         "wayou.vscode-todo-highlight",
-        "IBM.output-colorizer"
+        "IBM.output-colorizer",
+        "golang.Go"
       ]
     }
   }
